@@ -1,2 +1,2 @@
 #!/bin/bash
-echo " hiii my name is ramprasad charan "
+echo " hiii my nabme is ramprasad charan "
